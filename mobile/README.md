@@ -1,50 +1,64 @@
-# Welcome to your Expo app 👋
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
 
-## Get started
+<table>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/de0c066e-17ca-41da-9da3-6cba02cfbe09" width="200"/></td>
+    <td><img src="https://github.com/user-attachments/assets/aab5701c-0537-4fac-bd4d-b9ac3a520724" width="200"/></td>
+    <td><img src="https://github.com/user-attachments/assets/37563888-c656-4676-a832-bdab456062e4" width="200"/></td>
+    <td><img src="https://github.com/user-attachments/assets/7cd19740-1fd8-4fbc-a346-2524ced37593" width="200"/></td>
+    <td><img src="https://github.com/user-attachments/assets/98fc9add-0258-4b82-a2e5-eee705bd5294" width="200"/></td>
 
-1. Install dependencies
 
-   ```bash
-   npm install
-   ```
+  </tr>
+</table>
 
-2. Start the app
 
-   ```bash
-   npx expo start
-   ```
 
-In the output, you'll find options to open the app in a
+# Annapurna 🍽️
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
+Annapur is a modern mobile recipe application built using Expo and React Native.  
+The app is designed to help users discover, explore, and cook a wide variety of recipes through a simple and intuitive interface.
 
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
+---
 
-## Get a fresh project
+## 📌 About the Application
 
-When you're ready, run:
+Annapur focuses on providing an organized and user-friendly cooking experience.  
+Users can browse recipes by categories, search for specific dishes, and access detailed cooking instructions.  
+The application emphasizes clarity, ease of navigation, and smooth user interaction across all screens.
+
+---
+
+## 🔄 Application Workflow
+
+- The user starts on the **Home screen**, where featured recipes and food categories are displayed.
+- Recipes are grouped based on cuisine or type, making browsing easy and intuitive.
+- Users can search for recipes using keywords through the **Search functionality**.
+- Selecting a recipe opens the **Recipe Details screen**, showing the recipe image, cooking time, and servings.
+- Each recipe includes a dedicated section for **ingredients** required for cooking.
+- Step-by-step **cooking instructions** guide the user through the preparation process.
+- Users can save their preferred recipes to the **Favorites section** for quick access later.
+- Bottom tab navigation allows seamless movement between Home, Search, and Favorites screens.
+
+---
+
+## 🛠️ Technology Stack
+
+- Expo
+- React Native
+- TypeScript
+- Expo Router
+
+---
+
+## 🚀 Getting Started
+
+Follow the steps below to run the project locally:
 
 ```bash
-npm run reset-project
-```
+git clone
+cd mobile
+npm install
+npx expo start
 
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
 
-## Learn more
-
-To learn more about developing your project with Expo, look at the following resources:
-
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
-
-## Join the community
-
-Join our community of developers creating universal apps.
-
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
