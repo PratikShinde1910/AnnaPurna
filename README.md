@@ -43,3 +43,22 @@ The application emphasizes clarity, ease of navigation, and smooth user interact
 ---
 
 ## 🛠️ Technology Stack
+
+- Expo
+- React Native
+- TypeScript
+- Expo Router
+
+---
+
+## 🚀 Getting Started
+
+Follow the steps below to run the project locally:
+
+```bash
+git clone
+cd mobile
+npm install
+npx expo start
+
+
